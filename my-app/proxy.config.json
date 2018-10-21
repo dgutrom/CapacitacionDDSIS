@@ -1,0 +1,8 @@
+{
+    "/*":{
+    "traget": "https://capacitacion.ddsis.com.mx",
+    "secure": false ,
+    "logLevel": "debug",
+    "changOrigin":true
+    }
+}
